@@ -1,0 +1,90 @@
+
+/*
+there .logo is landing page css
+*/
+div.img-fluid{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+ .h2 {
+    text-align: center;
+    padding-top: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*
+landing page css end here
+*/
+/*
+body{
+    background-color:white;
+}
+.background{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#base {
+    justify-content: center;
+    background: rgb(11, 6, 156);
+    display: flex;
+    height: 380px;
+    margin-bottom: 0%;
+    padding-left: 0%;
+    margin-left: 0%;
+    margin-top: 150px;
+    position: relative;
+    width: 380px;
+  }
+  #base:before {
+    justify-content: center;
+    margin-top: 0%;
+    padding-top: 0%;
+    border-bottom: 35px solid rgb(11, 6, 156);
+    border-left: 190px solid transparent;
+    border-right: 190px solid transparent;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    top: -35px;
+    width: 100;
+  }
+  .select{
+    text-align: center;
+    color: white;
+    font-family:  "Times New Roman", Times, serif;
+  }
+
+  /*
+  third web page styling started here
+  */
+  div.jumbotron text-center{
+    background-color: yellow;
+  }
+ .panel-default{
+    background-color: black;
+ }
+ /*
+ fifth file
+ */
+ .background{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.container{
+  justify-content: center;
+  margin-left: 38px;
+  align-items: center;
+  margin-top: 350px;
+}
